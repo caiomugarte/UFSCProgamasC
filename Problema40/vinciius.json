@@ -1,0 +1,12 @@
+{
+  "web": {
+    "client_id": "87041772947-h92qgh4fedu3gvgkautpo62g7foc6nab.apps.googleusercontent.com",
+    "project_id": "sis-controladoras",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "rB_ZvFdgtU0zVEYHCeWJFBe_",
+    "redirect_uris": ["https://www.sisdedetizadora.com.br"],
+    "javascript_origins": ["https://www.sisdedetizadora.com.br"]
+  }
+}
